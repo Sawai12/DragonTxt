@@ -9,4 +9,4 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "6849871840:AAFo0BbH8f2C2Rvkb7GyXUncZ5a5UyhuNh0")
     API_ID = int(os.environ.get("API_ID", "26451206"))
     API_HASH = os.environ.get("API_HASH", "32984406271d6f3945bb536671b143a7")
-    AUTH_USERS = os.environ.get("AUTH_USERS", "6693536228")
+    AUTH_USERS = os.environ.get("AUTH_USERS", "6830450483")
